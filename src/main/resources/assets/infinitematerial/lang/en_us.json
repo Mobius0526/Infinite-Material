@@ -1,0 +1,13 @@
+{
+  "itemGroup.infinitematerial": "Example Mod Tab",
+  "block.infinitematerial.example_block": "Example Block",
+  "item.infinitematerial.example_item": "Example Item",
+
+  "infinitematerial.configuration.title": "Infinite Material Configs",
+  "infinitematerial.configuration.section.infinitematerial.common.toml": "Infinite Material Configs",
+  "infinitematerial.configuration.section.infinitematerial.common.toml.title": "Infinite Material Configs",
+  "infinitematerial.configuration.items": "Item List",
+  "infinitematerial.configuration.logDirtBlock": "Log Dirt Block",
+  "infinitematerial.configuration.magicNumberIntroduction": "Magic Number Text",
+  "infinitematerial.configuration.magicNumber": "Magic Number"
+}
